@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+tests/
+Dockerfile
+docker-compose.yml
+ansible/
+kubernetes/
+terraform/
+jenkins/
+scripts/
